@@ -8,6 +8,7 @@ lib/Business/PayPal/API/AuthorizationRequest.pm
 lib/Business/PayPal/API/CaptureRequest.pm
 lib/Business/PayPal/API/DirectPayments.pm
 lib/Business/PayPal/API/ExpressCheckout.pm
+lib/Business/PayPal/API/GetBalance.pm
 lib/Business/PayPal/API/GetTransactionDetails.pm
 lib/Business/PayPal/API/MassPay.pm
 lib/Business/PayPal/API/ReauthorizationRequest.pm
